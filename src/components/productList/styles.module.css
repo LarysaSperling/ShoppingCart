@@ -1,0 +1,10 @@
+.productList {
+  flex: 1;
+}
+
+.productItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
