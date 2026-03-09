@@ -1,0 +1,15 @@
+.cartItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.info {
+  min-width: 120px;
+}
+
+.input {
+  width: 60px;
+  padding: 4px;
+}
