@@ -1,3 +1,22 @@
+import "./App.css";
+import ProductList from "./components/productList";
+import Cart from "./components/cart";
+
+function App() {
+  return (
+    <div className="container">
+      <ProductList />
+      <Cart />
+    </div>
+  );
+}
+
+export default App;
+
+
+
+
+
 // Создание приложения корзины товаров с использованием React и Redux
 
 // 1.	Установка зависимостей
